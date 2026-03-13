@@ -10,7 +10,7 @@
 ![Model](https://img.shields.io/badge/model-AugTab-black)
 
 Anonymous code repository for submission to **ECML-PKDD 2026**  
-**European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases**  
+**European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2026)**  
 **Paper ID / PID: 416**
 
 ## Overview
